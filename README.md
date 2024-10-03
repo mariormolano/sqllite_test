@@ -1,2 +1,2 @@
 # sqllite_test
-Test de sqllite en AWS Lamda
+Test de sqllite en AWS Lambda
